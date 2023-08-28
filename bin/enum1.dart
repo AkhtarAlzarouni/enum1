@@ -6,6 +6,7 @@ void main() {
   print("Enter student name: ");
   String name = stdin.readLineSync()!;
   
+  
 
   print("Enter student email: ");
   String email = stdin.readLineSync()!;
